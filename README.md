@@ -1,4 +1,4 @@
-<h1>PDQ Inventory – Why It Is Important, Add A Computer, Right-Clicking A Computer Name, Double-Clicking A Computer Name, Get Into File Explorer Of A Client Computer, Tools Functionsr</h1>
+<h1>PDQ Inventory – Why It Is Important, Add A Computer, Right-Clicking A Computer Name, Double-Clicking A Computer Name, Get Into File Explorer Of A Client Computer, Tools Functions</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
