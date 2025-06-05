@@ -80,4 +80,28 @@ This project goes over why PDQ Inventory is important and how to add a computer,
 <br /><br />
 
 
-<div
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Clicking A Computer Name In All Computers Tab:</b></span>  
+<br/><br
+
+<span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: All Computers (Left colomn).  Right-Click: The computer name you want to use an option.  Result.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/BGNCmiU.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/KTG2K9m.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/S792uDz.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/PKqR9It.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/14UIBOa.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/iH24MKQ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
