@@ -139,3 +139,67 @@ This project goes over why PDQ Inventory is important and how to add a computer,
 <br /><br />
 
 
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>How To Get Into The File Explorer Of A Client Computer:</b></span>  
+<br/><br
+
+<span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: All Computers (Left column).  Double-Click: The computer name you want to go into File Explorer.  Click: Shares (left box).  Click: The C$ (blue)(this will open the C: drive in the user’s File Explorer).  Result.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/YViVa9H.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/q5JbZWy.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/7GDKQoK.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/yaxDugU.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/r1PuuKz.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/DtuF92a.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/1lMnqaw.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/pdAbEwn.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/FVBJWmB.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ThjadLM.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/AQI8rXk.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/w5NHm4R.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/jL0myJV.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/AyQhOE9.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Tools (very top, to the left of Options  (OR)  under Edit and View): Allows An Administrator To Do Various Functions On A Client’s Computer:</b></span>  
+<br/><br
+
+<span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Allow you to: Event Viewer, Manage with MMC, PDQ Deploy, Reboot, Shutdown, Remote Assist, Remote Desktop, Run Command (command prompt), VNC, Wake the client’s computer, Open ADMIN Shared folder on the client’s computer  (AND)  get to the client’s File Explorer.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/hOm4Xgm.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/jDAtKrW.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
