@@ -105,3 +105,37 @@ This project goes over why PDQ Inventory is important and how to add a computer,
 
 <br /><br />
 
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Double-Clicking A Computer Name In All Computers Tab:</b></span>  
+<br/><br
+
+<span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: All Computers (Left column).  Double-Click: The computer name you want to see details about.  Example One: Computer: An overview of the computer.  Left-box: The different categories of details you can see about that computer.  Right-box: The details displayed of the left-box category you clicked.  Example Two: Applications: The applications installed on the computer.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/m0QyeSL.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/FY8LVrq.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/sRRcMga.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/9kdUbP9.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/TpImJOY.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/pUlO7t4.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/U1aEZ3G.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/Utgzasb.png" height="100%" width="100%" /></td
+  </tr>
+</table>
+
+<br /><br />
+
+
